@@ -1,3 +1,8 @@
+/*
+Sort a given set of elements using Bubble Sort and determine the time required to sort the elements.
+Plot a graph of number of elements versus time taken. Specify the time efficiency class of this algorithm.
+*/
+
 import java.util.*;
 public class bubbleSort{
     public static void main(String[] args){
