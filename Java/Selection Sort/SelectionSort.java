@@ -1,3 +1,7 @@
+/*
+Sort a given set of elements using Selection Sort and determine the time required to sort the elements. 
+Plot a graph of number of elements versus time taken. Specify the time efficiency class of this algorithm.
+*/
 
 // Java program for implementation of Selection Sort 
 class SelectionSort 
