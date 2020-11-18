@@ -1,3 +1,7 @@
+/*
+Sort a given set of elements using Merge Sort method and determine the time required to sort the elements. 
+Plot a graph of number of elements versus time taken. Specify the time efficiency class of this algorithm 
+*/
 
 class MergeSort { 
 	// Merges two subarrays of arr[]. 
