@@ -1,4 +1,6 @@
-
+/*
+Print all the nodes reachable from a given starting node in a digraph using BFS. Give the trace of this algorithm. 
+*/
 // BFS(int s) traverses vertices reachable from s. 
 import java.io.*; 
 import java.util.*; 
