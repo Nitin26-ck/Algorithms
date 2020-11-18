@@ -1,3 +1,6 @@
+/*
+Print all the nodes reachable from a given starting node in a digraph using BFS. Give the trace of this algorithm. 
+*/
 #include<stdio.h>
 void BFS(int[20][20],int,int[20],int);
 void main()
