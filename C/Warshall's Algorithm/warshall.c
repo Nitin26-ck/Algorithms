@@ -1,3 +1,6 @@
+/*
+Compute the transitive closure of a given directed graph using Warshall's algorithm. Give the trace of this algorithm.  
+*/
 #include<stdio.h>
 void main()
 {
