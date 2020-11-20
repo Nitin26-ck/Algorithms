@@ -1,3 +1,6 @@
+/*
+Implement Horspool algorithm for String Matching. Give the trace of this algorithm.
+*/
 import java.util.*;
 public class Horspool  {
   
