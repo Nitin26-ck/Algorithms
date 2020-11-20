@@ -1,6 +1,8 @@
+/*
+Compute the transitive closure of a given directed graph using Warshall's algorithm. Give the trace of this algorithm.  
+*/
 
 import java.util.Scanner;
- 
 /** Class Warshall **/
 public class Warshall
 {
