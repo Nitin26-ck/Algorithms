@@ -1,3 +1,6 @@
+/*
+Implement Horspool algorithm for String Matching. Give the trace of this algorithm.
+*/
 #include<stdio.h>
 #include<string.h>
 #define MAX 500
