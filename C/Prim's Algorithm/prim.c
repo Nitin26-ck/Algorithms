@@ -1,3 +1,7 @@
+/*
+Find Minimum Cost Spanning Tree of a given undirected graph using Prim’s algorithm. Give the trace of this algorithm
+*/
+
 #include<stdio.h>
 int ne=1,min_cost=0;
 void main()
