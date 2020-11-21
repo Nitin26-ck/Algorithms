@@ -1,3 +1,7 @@
+/*
+Implement Floyd’s algorithm for the All-Pairs- Shortest-Paths problem. Give the trace of this algorithm.  
+*/
+
 #include<stdio.h>
 int min(int a, int b)
 {
