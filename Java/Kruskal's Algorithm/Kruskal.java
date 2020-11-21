@@ -1,3 +1,6 @@
+/*
+Find Minimum Cost Spanning Tree of a given undirected graph using Kruskal’s algorithm. Give the trace of this algorithm
+*/
 
 import java.util.*;
 import java.lang.*;
