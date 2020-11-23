@@ -1,3 +1,7 @@
+/*
+Implement   0/1    Knapsack   problem   using   dynamic programming. 
+Give the trace of this algorithm.
+*/
 #include<stdio.h>
 int max(int a,int b)
 {
