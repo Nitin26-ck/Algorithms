@@ -1,3 +1,7 @@
+/*
+rom a given vertex in a weighted connected graph, find shortest paths to other vertices using Dijkstra's algorithm. 
+Give the trace of this algorithm. 
+*/
 #include<stdio.h>
 void dijkstra(int,int [20][20],int [20],int [20],int);
 void main()
