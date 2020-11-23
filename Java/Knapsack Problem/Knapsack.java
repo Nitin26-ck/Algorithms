@@ -1,4 +1,7 @@
-
+/*
+Implement   0/1    Knapsack   problem   using   dynamic programming. 
+Give the trace of this algorithm.
+*/
 class Knapsack { 
   
     // A utility function that returns maximum of two integers 
