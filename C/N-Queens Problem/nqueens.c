@@ -1,3 +1,7 @@
+/*
+Implement N-Queen's problem using Back Tracking.
+Give the trace of this algorithm.
+*/
 #include<stdio.h>
 void nqueens(int);
 int place(int[],int);
