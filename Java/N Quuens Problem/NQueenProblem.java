@@ -1,3 +1,7 @@
+/*
+Implement N-Queen's problem using Back Tracking.
+Give the trace of this algorithm.
+*/
 public class NQueenProblem { 
     final int N = 4; 
   
